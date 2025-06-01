@@ -10,4 +10,4 @@ Outside of my work and educational pursuits, I am the husband of an amazing, won
 🌱 I love doing family history research, and am currently working on a not-for-profit family history organization and web site. Details will be provided soon.
 💬 I like to do missionary work and talk about the Gospel of Jesus Christ. I am also very interested in software development using Python, HTML5 with vanilla Javascript, C#, and custom AI development. I am doing research on a revision of a data vectorization system I designed in the mid 90s.
 
-[![My Skills](https://skillicons.dev/icons?i=ai,aws,apple,azure,cs,dotnet,codepen,html,css,js,ts,jquery,debian,ubuntu,linux,fastapi,git,github,java,md,mysql,postgres,php,py,rabbitmq,raspberrypi,redhat,redis,vscode&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ai,aws,apple,azure,cs,dotnet,codepen,html,css,js,ts,jquery,debian,ubuntu,linux,fastapi,git,github,java,md,mysql,postgres,php,py,rabbitmq,raspberrypi,redhat,redis,vscode&perline=8)](https://skillicons.dev)
